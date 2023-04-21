@@ -1,0 +1,15 @@
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\bin\Debug\net7.0\MISA.WebFresher022023.Common.deps.json
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\bin\Debug\net7.0\MISA.WebFresher022023.Common.dll
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\bin\Debug\net7.0\MISA.WebFresher022023.Common.pdb
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\obj\Debug\net7.0\MISA.WebFresher022023.Common.csproj.AssemblyReference.cache
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\obj\Debug\net7.0\MISA.WebFresher022023.Common.Resources.ResourceApi.resources
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\obj\Debug\net7.0\MISA.WebFresher022023.Common.Resources.ResourceVN.resources
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\obj\Debug\net7.0\MISA.WebFresher022023.Common.csproj.GenerateResource.cache
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\obj\Debug\net7.0\MISA.WebFresher022023.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\obj\Debug\net7.0\MISA.WebFresher022023.Common.AssemblyInfoInputs.cache
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\obj\Debug\net7.0\MISA.WebFresher022023.Common.AssemblyInfo.cs
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\obj\Debug\net7.0\MISA.WebFresher022023.Common.csproj.CoreCompileInputs.cache
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\obj\Debug\net7.0\MISA.WebFresher022023.Common.dll
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\obj\Debug\net7.0\refint\MISA.WebFresher022023.Common.dll
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\obj\Debug\net7.0\MISA.WebFresher022023.Common.pdb
+F:\MISA\MISA.WebFresher022023\MISA.WebFresher022023.Common\obj\Debug\net7.0\ref\MISA.WebFresher022023.Common.dll

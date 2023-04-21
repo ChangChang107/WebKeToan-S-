@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MISA.WebFresher022023.Common\MISA.WebFresher022023.Common.csproj" />
+    <ProjectReference Include="..\MISA.WebFresher022023.DL\MISA.WebFresher022023.DL.csproj" />
+  </ItemGroup>
+
+</Project>
